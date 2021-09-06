@@ -1,0 +1,24 @@
+{
+  "name": "vincy_algorithm",
+  "version": "1.0.0",
+  "description": "算法学习",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincyGN/vincy_algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincyGN/vincy_algorithm/issues"
+  },
+  "homepage": "https://github.com/VincyGN/vincy_algorithm#readme",
+  "devDependencies": {
+    "webpack": "^5.52.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
