@@ -11,4 +11,7 @@ import {
 // console.log(getMax3([5, 2, 94, 87, 34, 346]));
 
 import getRandom from './3-生成a到b之间的随机数'
-console.log(getRandom(23, 31));
+// console.log(getRandom(23, 31));
+
+import isPrime from './4-判断一个数是否是素数'
+console.log(isPrime(11));
