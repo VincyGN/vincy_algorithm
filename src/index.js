@@ -17,5 +17,9 @@ import isPrime from './4-判断一个数是否是素数'
 // console.log(isPrime(11));
 
 import isBalance from './5-括号匹配'
-console.log(isBalance('[(哈哈)(]])'));
-console.log(isBalance('[(hehe)()]'));
+// console.log(isBalance('[(哈哈)(]])'));
+// console.log(isBalance('[(hehe)()]'));
+
+import solve from './6-子数组与整除'
+// console.log(solve([3, 5, 8], 13));
+console.log(solve([3, 9], 15));
